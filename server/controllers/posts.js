@@ -1,4 +1,5 @@
 import express from 'express';
+
 import PostMessage from '../models/postMessage.js';
 
 const router = express.Router();
@@ -37,5 +38,4 @@ export const updatePost = async (req, res) => {
 
     res.json(updatedPost);
 }
-
 
