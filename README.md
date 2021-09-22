@@ -1,6 +1,6 @@
 # Flicks
 
-![]()
+![](./video/demo.gif)
 
 
 Setup:
