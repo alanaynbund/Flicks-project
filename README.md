@@ -1,4 +1,5 @@
 # Flicks
+Share your flicks! Upload pictures, like others, delete them, and edit them! Share your favorite flicks to everybody!
 
 ![](./video/demo.gif)
 
