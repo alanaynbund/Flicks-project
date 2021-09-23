@@ -17,6 +17,7 @@ Share your flicks! Upload pictures, like others, delete them, and edit them! Sha
 * Cors
 * Moment
 * Axios
+* MaterialUI
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
